@@ -70,8 +70,8 @@ a{
 }
 /* animations / utilities */
 .section-2 a:hover{
-    font-size: 1.3rem;
-    color: #fff;
+/*     font-size: 1.rem;*/
+    color: #fff; 
     cursor: pointer;
     transition: 0.2s;
 }
@@ -84,7 +84,7 @@ a{
 
 .white:hover{
     position: relative;
-    padding-left: 10px;
+/*     padding-left: 10px; */
 }
 
 /* media queres */
