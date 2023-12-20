@@ -33,7 +33,7 @@ a{
     width: 200px; /* Adjust size as needed */
     height: 200px; /* Adjust size as needed */
     border-radius: 50%; /* Makes the image circular */
-    margin-right: 20px; /* Adds space between the image and text */
+    margin: 80px; /* Adds space between the image and text */
 }
 
 .section-1 p{
